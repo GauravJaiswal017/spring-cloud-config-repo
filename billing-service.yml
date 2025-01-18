@@ -1,0 +1,5 @@
+server:
+  port:55522
+spring:
+  application:
+    name:billing-service
