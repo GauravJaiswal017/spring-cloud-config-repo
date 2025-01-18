@@ -1,5 +1,5 @@
 server:
-  port:55322
+  port: 55322
 spring:
   application:
-    name:payment-service
+    name: payment-service
