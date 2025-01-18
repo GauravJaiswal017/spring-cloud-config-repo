@@ -2,4 +2,4 @@ server:
   port:55116
 spring:
   application:
-    name: shopping-service
+    name:shopping-service
